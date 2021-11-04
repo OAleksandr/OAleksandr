@@ -30,8 +30,8 @@
  <img alt="AJAX" src="https://img.shields.io/badge/ajax-54ba80.svg?&style=for-the-badge&logo=ajax&logoColor=fff" />
  <img alt="LINQ" src="https://img.shields.io/badge/linq-6a91d9.svg?&style=for-the-badge&logo=linq&logoColor=fff" />
  <img alt="JSON" src="https://img.shields.io/badge/json-6a91d9.svg?&style=for-the-badge&logo=json&logoColor=fff" />
- <img alt="HTML" src="https://img.shields.io/badge/html-6a91d9.svg?&style=for-the-badge&logo=html&logoColor=fff" />
- <img alt="CSS" src="https://img.shields.io/badge/css-6a91d9.svg?&style=for-the-badge&logo=css&logoColor=fff" />
+ <img alt="HTML" src="https://img.shields.io/badge/html-eb6134.svg?&style=for-the-badge&logo=html5&logoColor=fff" />
+ <img alt="CSS" src="https://img.shields.io/badge/css-347aeb.svg?&style=for-the-badge&logo=css3&logoColor=fff" />
  <img alt="SQL" src="https://img.shields.io/badge/sql-c1c4b7.svg?&style=for-the-badge&logo=sql&logoColor=fff" />
 </div>
 
