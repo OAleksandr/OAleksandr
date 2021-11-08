@@ -24,6 +24,7 @@
 <div align="center">
  <img alt="C#" src="https://img.shields.io/badge/csharp-8c34eb.svg?&style=for-the-badge&logo=csharp&logoColor=fff" />
  <img alt="ASP.NET" src="https://img.shields.io/badge/asp.net-8c34eb.svg?&style=for-the-badge&logo=dotnet&logoColor=fff" />
+ <img alt="ASP.NET Web API" src="https://img.shields.io/badge/asp.net web api-8c34eb.svg?&style=for-the-badge&logo=dotnet&logoColor=fff" />
  <img alt="JS" src="https://img.shields.io/badge/javascript-ebcf34.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />
  <img alt="jQuery" src="https://img.shields.io/badge/jquery-3483eb.svg?&style=for-the-badge&logo=jquery&logoColor=fff" />
  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-6f42c1.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />
@@ -43,6 +44,14 @@
  <img alt="JAVA" src="https://img.shields.io/badge/java-ae0000.svg?&style=for-the-badge&logo=java&logoColor=fff" />
  <img alt="SASS" src="https://img.shields.io/badge/sass-cf649a.svg?&style=for-the-badge&logo=sass&logoColor=fff" />
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479a1.svg?&style=for-the-badge&logo=mysql&logoColor=fff" />
+</div>
+
+## :writing_hand: IN LEARNING PROCESS:
+ 
+<div align="center">
+  <img alt="ReactJS" src="https://img.shields.io/badge/react-282c34.svg?&style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-13aa52.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/expressjs-010101.svg?&style=for-the-badge&logo=express&logoColor=fff" />
 </div>
 
 <br/>
