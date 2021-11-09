@@ -56,8 +56,6 @@
 
 <hr/>
 
-<br/>
-
 <div align="center">
   :octocat:
 </div>
