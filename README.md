@@ -51,7 +51,7 @@
 <div align="center">
   <img alt="ReactJS" src="https://img.shields.io/badge/react-282c34.svg?&style=for-the-badge&logo=react&logoColor=61dafb" />
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-13aa52.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/expressjs-010101.svg?&style=for-the-badge&logo=express&logoColor=fff" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/express-010101.svg?&style=for-the-badge&logo=express&logoColor=fff" />
 </div>
 
 <hr/>
