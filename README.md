@@ -15,7 +15,7 @@
 
 
 > Hello, I am **Oleksandr**, and I am that person who loves coding. I am always willing to learn something new, especially modern technologies and development techniques, to enhance my skill set. 
-> **More about me [here](https://www.oshchegol-dev.com/#about)**.
+> **More about me [here](https://oshchegol-dev.com/#about)**.
 
 <hr>
 
