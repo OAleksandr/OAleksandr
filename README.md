@@ -30,7 +30,7 @@ I'm a full-stack developer who enjoys building clean, reliable web applications 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,aws,docker,azure,git,github,js,jquery,bootstrap,html,css&theme=dark&perline=13" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,aws,docker,azure,git,github,js,ts,jquery,bootstrap,html,css&theme=dark&perline=14" alt="Tech stack icons" />
 <br/><br/>
 <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-21262d?style=for-the-badge&logo=dotnet&logoColor=E87722" />
 <img alt="Blazor" src="https://img.shields.io/badge/Blazor-21262d?style=for-the-badge&logo=blazor&logoColor=E87722" />
